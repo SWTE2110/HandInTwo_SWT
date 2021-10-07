@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.csproj",
-      "projectName": "HandinTwo",
-      "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.csproj",
+      "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
+      "projectName": "HandinTwo.klasser",
+      "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
       "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\obj\\",
       "projectStyle": "PackageReference",

@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.csproj": {
-                "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.csproj"
+              "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj": {
+                "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj"
               }
             }
           }
@@ -50,19 +50,21 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.4, )"
+              "version": "[16.11.0, )"
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.1, )"
+              "version": "[3.13.2, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.17.0, )"
+              "version": "[4.0.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -84,12 +86,12 @@
         }
       }
     },
-    "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.csproj": {
+    "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.csproj",
-        "projectName": "HandinTwo",
-        "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.csproj",
+        "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
+        "projectName": "HandinTwo.klasser",
+        "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
         "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\obj\\",
         "projectStyle": "PackageReference",
