@@ -4974,11 +4974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo.Test\\HandinTwo.Test.csproj",
+      "projectUniqueName": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.Test\\HandinTwo.Test.csproj",
       "projectName": "HandinTwo.Test",
-      "projectPath": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo.Test\\HandinTwo.Test.csproj",
+      "projectPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.Test\\HandinTwo.Test.csproj",
       "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo.Test\\obj\\",
+      "outputPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4999,8 +4999,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo\\HandinTwo.csproj": {
-              "projectPath": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo\\HandinTwo.csproj"
+            "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo\\HandinTwo.csproj": {
+              "projectPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo\\HandinTwo.csproj"
             }
           }
         }

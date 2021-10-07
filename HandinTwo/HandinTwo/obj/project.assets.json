@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo\\HandinTwo.csproj",
+      "projectUniqueName": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo\\HandinTwo.csproj",
       "projectName": "HandinTwo",
-      "projectPath": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo\\HandinTwo.csproj",
+      "projectPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo\\HandinTwo.csproj",
       "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo\\obj\\",
+      "outputPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
