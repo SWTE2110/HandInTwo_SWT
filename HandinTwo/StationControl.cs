@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Ladeskab.Interfaces;
+using HandinTwo.klasser.Interfaces;
 
-namespace Ladeskab
+namespace HandinTwo.klasser
 {
     public class StationControl
     {

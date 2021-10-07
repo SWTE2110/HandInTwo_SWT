@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Timers;
 
-namespace HandinTwo
+namespace HandinTwo.klasser
 {
     public class UsbChargerSimulator : IUsbCharger
     {
