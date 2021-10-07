@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXuQw2JHSXo6m5Rxn0yOTPN51K6b1Lbo8DZMKEdmpSn+8Y84fLIjXRwQGRQrJSF6kBfxF2qGNWYaAMf0mqGgzA==",
+  "dgSpecHash": "KV123S5ByUB+uYytTdWnrDGyoOgzL9aXH1jqrn1VZ+u0oWQGqdR7RyJiE2Mydwo0juDm0zZSMO0WLSTXCmgHOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asger\\Documents\\Uni\\4Semester\\SWT\\Aflevering2\\HandinTwo\\HandinTwo.Test\\HandinTwo.Test.csproj",
+  "projectFilePath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asger\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\asger\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
