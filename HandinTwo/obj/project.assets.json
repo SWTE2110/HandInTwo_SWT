@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
+      "projectUniqueName": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
       "projectName": "HandinTwo.klasser",
-      "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
+      "projectPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
       "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\obj\\",
+      "outputPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

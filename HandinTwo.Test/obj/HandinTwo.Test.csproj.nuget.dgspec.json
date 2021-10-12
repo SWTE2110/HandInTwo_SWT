@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj": {}
+    "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj": {
+    "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj",
+        "projectUniqueName": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj",
         "projectName": "HandinTwo.Test",
-        "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj",
+        "projectPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo.Test\\HandinTwo.Test.csproj",
         "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo.Test\\obj\\",
+        "outputPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj": {
-                "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj"
+              "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj": {
+                "projectPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj": {
+    "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
+        "projectUniqueName": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
         "projectName": "HandinTwo.klasser",
-        "projectPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
+        "projectPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\HandinTwo.klasser.csproj",
         "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asger\\Source\\Repos\\SWTE2110\\HandInTwo_SWT\\HandinTwo\\obj\\",
+        "outputPath": "C:\\Users\\asger\\Documents\\GitHub\\HandInTwo_SWT\\HandinTwo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
